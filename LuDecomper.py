@@ -1,5 +1,9 @@
 __author__ = 'Allen Woods'
-
+"""
+说明：
+1.需安装python3方可运行
+2.进入终端输入python3 LuDecomper.py运行
+"""
 from basic_op import matrix_io
 from matrix_op import lu_decomposition
 
