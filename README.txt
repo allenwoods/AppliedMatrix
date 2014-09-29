@@ -11,5 +11,4 @@
 ——目录——
 
 1.LU分解的简单实现<LuDecomper.py>
-简介：程序使用高斯消元法构造L、U、P矩阵，具体方法与 Matrix Analysis And A Applied Linear ALgebra 
-	 书中151页Example 3.10.4所展示的方法一致。
+简介：程序使用高斯消元法构造L、U、P矩阵，具体方法与 Matrix Analysis And A Applied Linear ALgebra 书中151页Example 3.10.4所展示的方法一致。
